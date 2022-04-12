@@ -1,7 +1,7 @@
 # Hideout Manager for Escape From Tarkov
 
 Image recognition & automation tool built in Python for popular game ‘Escape from Tarkov’. 
-Utilizes Tensorflow and Windows API to gather game data and perform actions autonomously while running.
+Utilizes Tensorflow, PIL and PyAutoGUI to gather game data and perform actions autonomously while running.
 
 This was an educational / experimental project in my free time for handling automation in Escape From Tarkov. 
 Ultimately, Tarkov has a lot of measures in place to prevent automation of the Hideout & Traders.
