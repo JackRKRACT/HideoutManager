@@ -1,0 +1,52 @@
+{
+    "Green_Gunpowder": {
+        "image_location":"C:/Users/Jack/Desktop/Stuff July 2021/Programming/HideoutManager_v2/crafts/craft1/produced.png",
+        "module":"workbench",
+        "produced":1,
+        "time_in_min":93,
+        "sell_price":51111,
+        "requirements":{
+            "M67 grenade":{
+                "image_location":"C:/Users/Jack/Desktop/Stuff July 2021/Programming/HideoutManager_v2/crafts/craft1/req1.png",
+                "required":2,
+                "purchase_price_d":78,
+                "purchase_price_r":13000,
+                "purchase_price_eur":0,
+                "cheapest_trader":"peacekeeper"
+            },
+            "RDG-2B smoke grenade":{
+                "image_location":"C:/Users/Jack/Desktop/Stuff July 2021/Programming/HideoutManager_v2/crafts/craft1/req2.png",
+                "required":1,
+                "purchase_price_d":0,
+                "purchase_price_r":4745,
+                "purchase_price_eur":0,
+                "cheapest_trader":"prapor"
+            }
+        }
+    },
+    "Flechette": {
+        "image_location":"C:/Users/Jack/Desktop/Stuff July 2021/Programming/HideoutManager_v2/crafts/craft2/produced.png",
+        "module":"workbench",
+        "produced":1,
+        "time_in_min":93,
+        "sell_price":51111,
+        "requirements":{
+            "Metal fuel tank":{
+                "image_location":"C:/Users/Jack/Desktop/Stuff July 2021/Programming/HideoutManager_v2/crafts/craft2/req1.png",
+                "required":2,
+                "purchase_price_d":78,
+                "purchase_price_r":13000,
+                "purchase_price_eur":0,
+                "cheapest_trader":"peacekeeper"
+            },
+            "Gunpowder Kite":{
+                "image_location":"C:/Users/Jack/Desktop/Stuff July 2021/Programming/HideoutManager_v2/crafts/craft2/req2.png",
+                "required":1,
+                "purchase_price_d":0,
+                "purchase_price_r":4745,
+                "purchase_price_eur":0,
+                "cheapest_trader":"prapor"
+            }
+        }
+    }
+}
